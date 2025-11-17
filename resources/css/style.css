@@ -328,7 +328,7 @@ header .mobile {
   max-width: 100%;
   padding: 0 1%;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(370, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(370, 1fr));
 }
 
 @media only screen and (max-width: 760px) {
