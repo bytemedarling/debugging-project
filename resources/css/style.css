@@ -328,6 +328,7 @@ header .mobile {
   max-width: 100%;
   padding: 0 1%;
   display: grid;
+  vertical-align: baseline;
   grid-template-rows: repeat(auto-fit, minmax(370, 1fr));
 }
 
