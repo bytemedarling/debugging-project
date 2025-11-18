@@ -310,16 +310,20 @@ header .mobile {
 #filters-section .content {
   padding: 0 .625rem;
   margin-bottom: 5rem;
+
 }
 
 #filters-section .content h2 {
   font-size: 2.25rem;
   font-weight: bold;
+  font-family: "Roboto-Bold";
   color: white;
+  opacity: 100%;
 }
 
 #filters-section .content h3 {
   font-size: 1rem;
+  font-family: "Roboto-Bold";
   line-height: 1.4;
   font-weight: 300;
   color: white;
@@ -329,7 +333,7 @@ header .mobile {
   display:grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 0;
-  max-width: 100%;
+  max-width: 1200px;
   padding: 0 1%;
 }
 
@@ -357,6 +361,9 @@ header .mobile {
   #filters-section .images-container {
     display: block;
     padding: 0;
+    width: 100%;
+    height: auto;
+    display: block;
   }
 
   #filters-section .extra {
