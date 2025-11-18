@@ -67,7 +67,9 @@ header .logo {
 }
 
 header nav {
-  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+
 }
 
 header nav ul {
@@ -79,7 +81,7 @@ header nav ul {
 
 
 nav li {
-  padding-left: 3.5rem;
+  padding-left: 0;
 
 }
 
