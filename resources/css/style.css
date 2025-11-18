@@ -193,6 +193,9 @@ header .mobile {
 #sign-up-cta .button {
   margin-top: 1.625rem;
   padding: 1.25rem 7.25rem;
+  width: 25.5rem;
+  height: 4rem;
+  border-radius: 4px;
 }
 
 @media only screen and (max-width: 760px) {
