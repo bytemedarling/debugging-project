@@ -139,12 +139,12 @@ header .mobile {
 #sign-up-section {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: flex-start;                                                  
   background-image: url("../images/banner-landingpage.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  min-height: 450px;
+  height: 45.5rem;
 }
 
 #sign-up-cta {
