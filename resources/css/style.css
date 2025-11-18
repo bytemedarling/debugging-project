@@ -326,6 +326,11 @@ header .mobile {
 }
 
 #filters-section .images-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   max-width: 100%;
   padding: 0 1%;
 }
@@ -352,6 +357,7 @@ header .mobile {
   }
 
   #filters-section .images-container {
+    flex-basis: 200px / 50% / auto;
     padding: 0;
   }
 
