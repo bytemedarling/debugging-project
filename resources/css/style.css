@@ -262,8 +262,9 @@ header .mobile {
 
 .feature .image-container {
   width: 90%;
-  height: 65%;
+  height: auto;
   margin: 0 auto;
+  padding: 32px 32px 32px 46px;
 }
 
 .feature h2 {
