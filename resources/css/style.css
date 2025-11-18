@@ -143,8 +143,7 @@ header .mobile {
   height: 43.5rem;
   background-image: url("../images/banner-landingpage.jpg");
   background-repeat: no-repeat;
-  background-position-x: center;
-  background-position-y: bottom;
+  background-position: center;
   background-size: cover;
   min-height: 450px;
 }
@@ -193,7 +192,6 @@ header .mobile {
 #sign-up-cta .button {
   margin-top: 1.625rem;
   padding: 1.25rem 7.25rem;
-  height: 4rem;
   border-radius: 4px;
 }
 
