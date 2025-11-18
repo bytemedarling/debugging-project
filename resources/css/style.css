@@ -334,7 +334,7 @@ header .mobile {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 0;
   max-width: 1200px;
-  padding: 80px 1% 64px;
+  padding: 0 1%;
 }
 
 @media only screen and (max-width: 760px) {
