@@ -334,7 +334,7 @@ header .mobile {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 0;
   max-width: 1200px;
-  padding: 0 1%;
+  padding: 80px 1% 64px;
 }
 
 @media only screen and (max-width: 760px) {
@@ -359,11 +359,9 @@ header .mobile {
   }
 
   #filters-section .images-container {
-    display: block;
     padding: 0;
     width: 100%;
     height: auto;
-    display: block;
   }
 
   #filters-section .extra {
