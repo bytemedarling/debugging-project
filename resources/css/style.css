@@ -328,7 +328,7 @@ header .mobile {
 #filters-section .images-container {
   display:grid;
   gap: 1rem;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   justify-content: center;
   align-items: center;
   max-width: 100%;
@@ -357,7 +357,7 @@ header .mobile {
   }
 
   #filters-section .images-container {
-    
+
     padding: 0;
   }
 
