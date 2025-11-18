@@ -168,6 +168,8 @@ header .mobile {
 
 #sign-up-cta h1 {
   font-size: 3.125rem;
+  font-family: "Rubik-Regular";
+  line-height: 1.4;
 }
 
 #sign-up-cta h2 {
@@ -215,6 +217,9 @@ header .mobile {
 
   #sign-up-cta .email {
     display: none;
+    font-size: 20px;
+    font-family: 'Roboto-Regular';
+    line-height: 1.4;
   }
 
   #sign-up-cta h1 {
