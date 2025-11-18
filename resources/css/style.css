@@ -327,7 +327,8 @@ header .mobile {
 
 #filters-section .images-container {
   display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0;
   max-width: 100%;
   padding: 0 1%;
 }
@@ -354,7 +355,7 @@ header .mobile {
   }
 
   #filters-section .images-container {
-
+    display: block;
     padding: 0;
   }
 
