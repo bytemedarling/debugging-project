@@ -347,6 +347,14 @@ header .mobile {
   padding: 0 1%;
 }
 
+#filters-section .image-container {
+  width: 100%;       /* fills the grid cell horizontally */
+  height: 100%;      /* fills the grid cell vertically */
+  object-fit: cover; /* crops edges but keeps proportions */
+  display: block;    /* removes inline spacing below images */
+}
+
+
 @media only screen and (max-width: 760px) {
   #filters-section {
     padding: 1.5rem 0 0 0;
