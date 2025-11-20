@@ -348,10 +348,10 @@ header .mobile {
 }
 
 #filters-section .image-container img {
-  width: 100%;       /* fills the grid cell horizontally */
-  height: 100%;      /* fills the grid cell vertically */
-  object-fit: cover; /* crops edges but keeps proportions */
-  display: block;    /* removes inline spacing below images */
+  width: 100%;       
+  height: 100%;     
+  object-fit: contain; 
+  display: block;    
 }
 
 
