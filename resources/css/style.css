@@ -407,6 +407,9 @@ header .mobile {
 
 #quotes-section content {
   padding: 5rem 0;
+  font-size: 1.875rem;
+  font-family: "palatino-Italic";
+  line-height: 1.1;
 }
 
 #quotes-section quote {
