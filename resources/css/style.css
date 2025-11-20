@@ -268,6 +268,13 @@ header .mobile {
   margin: 0 auto;
   padding: 2rem;
 }
+.feature .image-container img {
+  width: 90%;
+  height: 65%;
+  object-fit: contain; 
+  display: block;
+  margin: 0 auto; 
+}
 
 .feature h2 {
   padding-bottom: .5rem;
