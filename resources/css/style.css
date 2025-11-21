@@ -337,14 +337,14 @@ header .mobile {
 #filters-section .content h2 {
   font-size: 2.25rem;
   font-weight: bold;
-  font-family: "Roboto-Bold";
+  font-family: "Roboto";
   color: white;
   opacity: 100%;
 }
 
 #filters-section .content h3 {
   font-size: 1rem;
-  font-family: "Roboto-Bold";
+  font-family: "Roboto", bold;
   line-height: 1.4;
   font-weight: 300;
   color: white;
@@ -405,7 +405,7 @@ header .mobile {
 #quotes-section .content {
   padding: 5rem 0;
   font-size: 1.875rem;
-  font-family: "Roboto-Bold";
+  font-family: "Roboto", bold;
   line-height: 1.1;
 }
 
