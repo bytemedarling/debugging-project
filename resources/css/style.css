@@ -407,6 +407,7 @@ header .mobile {
   font-size: 1.875rem;
   font-family: "Roboto-Bold";
   line-height: 1.1;
+  margin: 5rem;
 }
 
 #quotes-section quote {
