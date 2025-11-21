@@ -354,9 +354,9 @@ header .mobile {
   display:grid;
   grid-template-columns: repeat(4, 1fr);
   overflow: hidden;
-  height: 300px;
+  height: 347px;
   gap: 0;
-  max-width: 100%;
+  max-width: 370px;
   padding: 0 1%;
 }
 
