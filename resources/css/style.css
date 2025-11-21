@@ -355,7 +355,6 @@ header .mobile {
   grid-template-columns: repeat(4, 1fr);
   overflow: hidden;
   height: 347px;
-  width: 370px;
   gap: 0;
   max-width: 100%;
   padding: 0 1%;
